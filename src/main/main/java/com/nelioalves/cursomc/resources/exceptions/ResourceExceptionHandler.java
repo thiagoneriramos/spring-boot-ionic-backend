@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 
 import com.nelioalves.cursomc.services.exceptions.ObjectNotFoundException;
 
-
 @ControllerAdvice
 public class ResourceExceptionHandler {
 	
